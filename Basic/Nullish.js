@@ -8,3 +8,6 @@
 // let nickname = "VideCoder";
 
 // console.log(firstname || secondname || nickname || "Anonymous");
+
+let z = null;
+console.log(typeof z);
